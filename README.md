@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodewithBrownboy
+- 👋 Hi, I’m @CODSOFT12
 - 👀 I’m interested in Coding and Problem Solving
 - 🌱 I’m currently learning OS
 - 📫 How to reach me by email umersharafat24@gmail.com
